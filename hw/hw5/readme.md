@@ -5,7 +5,9 @@ Shang Wang
 ### Dependencies
 
 OS: Window 10
+
 python version 3.6.9
+
 required package: `time`, `numpy`, `sys`, `os`
 
 ### How to Run
